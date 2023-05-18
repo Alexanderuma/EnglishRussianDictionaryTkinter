@@ -1,0 +1,9 @@
+cat - кот
+town - город
+bicycle - велик
+whale - кит
+star - звезда
+room - комната
+plane - самолет
+moon - луна
+sun - солнце

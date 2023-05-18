@@ -1,0 +1,9 @@
+cat
+town
+bicycle
+whale
+star
+room
+plane
+moon
+sun
